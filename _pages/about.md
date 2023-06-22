@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: xiaoding12345@126.com
+subtitle: xiaoding12345@126.com | <a href="https://github.com/Wang-XIaoDingdd">GitHub link</a>
 
 profile:
   align: right
